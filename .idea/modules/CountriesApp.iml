@@ -12,6 +12,11 @@
     <content url="file://$MODULE_DIR$/../..">
       <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../build" />
+      <excludeFolder url="file://$MODULE_DIR$/../sonarlint/issuestore/1" />
+      <excludeFolder url="file://$MODULE_DIR$/../sonarlint/issuestore/5" />
+      <excludeFolder url="file://$MODULE_DIR$/../sonarlint/issuestore/7" />
+      <excludeFolder url="file://$MODULE_DIR$/../sonarlint/issuestore/8" />
+      <excludeFolder url="file://$MODULE_DIR$/../sonarlint/issuestore/f" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
