@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="input_country">Input country</string>
+    <string name="find">Find</string>
+    <string name="seek_and_find">Seek and find</string>
+    <string name="flags">flags</string>
+    <string name="country_name">Country name</string>
+    <string name="capital">Capital:</string>
+    <string name="capital_name">capital name</string>
+    <string name="peoples">Peoples:</string>
+    <string name="number_people">number</string>
+    <string name="country_area">Country area:</string>
+    <string name="languages">Languages:</string>
+    <string name="area_number">area_number</string>
+    <string name="list_of_languages">list of languages</string>
+</resources>
